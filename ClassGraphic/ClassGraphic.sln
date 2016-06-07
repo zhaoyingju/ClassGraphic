@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassGraphic", "ClassGraphic.csproj", "{0A1A32BF-3E06-407A-9537-34A4CBD216B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassRelation", "..\ClassRelation\ClassRelation.csproj", "{4356D2EB-6479-4C1F-B8FE-D060E287AA05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyDll", "AssemblyDll\AssemblyDll.csproj", "{CDFEC54A-95C8-4D43-80C9-9944B1CC6A48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A1A32BF-3E06-407A-9537-34A4CBD216B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1A32BF-3E06-407A-9537-34A4CBD216B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1A32BF-3E06-407A-9537-34A4CBD216B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1A32BF-3E06-407A-9537-34A4CBD216B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4356D2EB-6479-4C1F-B8FE-D060E287AA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4356D2EB-6479-4C1F-B8FE-D060E287AA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4356D2EB-6479-4C1F-B8FE-D060E287AA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4356D2EB-6479-4C1F-B8FE-D060E287AA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDFEC54A-95C8-4D43-80C9-9944B1CC6A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFEC54A-95C8-4D43-80C9-9944B1CC6A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFEC54A-95C8-4D43-80C9-9944B1CC6A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFEC54A-95C8-4D43-80C9-9944B1CC6A48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
